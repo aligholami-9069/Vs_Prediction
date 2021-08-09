@@ -1,4 +1,4 @@
-# A committee machine approach for estimation of fast and slow shear wave velocities utilizing petrophysical logs
+# A committee machine with intelligent experts (CMIE) for estimation of fast and slow shear wave velocities utilizing petrophysical logs
 
 ### By:
 ### Ali Gholami Vijouyeh<sup>a</sup>, Ali Kadkhodaie<sup>a</sup>, Mohammad Hassanpour Sedghi<sup>a</sup>, Hamed Gholami Vijouyeh<sup>b</sup>
